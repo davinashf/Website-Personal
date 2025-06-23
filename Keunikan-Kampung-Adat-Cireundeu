@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>KEUNIKAN KAMPUNG ADAT CIREUNDEU</title>
+  <link rel="stylesheet" href="Kelompok_9.css" />
+</head>
+<body>
+
+  <!-- HEADER (Hero Image) -->
+  <header class="hero">
+    <h1>KEUNIKAN KAMPUNG ADAT CIREUNDEU</h1>
+    <p class="tagline">Menjaga Tradisi, Merawat Alam</p>
+  </header>
+
+  <!-- MENU -->
+  <nav>
+    <ul>
+      <li><a href="#">Beranda</a></li>
+      <li><a href="#">Tentang</a></li>
+      <li><a href="#">Galeri</a></li>
+      <li><a href="#">Kontak</a></li>
+    </ul>
+  </nav>
+
+  <!-- GAMBAR UTAMA -->
+  <center>
+    <img src="Cirendeu2.jpg" alt="Desa Cireundeu" width="600" />
+  </center>
+
+  <!-- ISI UTAMA -->
+  <main>
+    <p>
+      Cireundeu berasal dari nama “pohon reundeu”, karena sebelumnya di kampung ini banyak sekali populasi pohon tersebut yang digunakan sebagai bahan obat herbal. Kampung Adat Cireundeu terletak di Kelurahan Leuwigajah, Kecamatan Cimahi Selatan, dengan sekitar 50 kepala keluarga atau 800 jiwa. Sebagian besar penduduk bermata pencaharian sebagai petani ketela. Kampung ini memiliki luas sekitar 64 hektar, terdiri dari 60 hektar lahan pertanian dan 4 hektar pemukiman. Warga Kampung Cireundeu memegang teguh kepercayaan Sunda Wiwitan dan melestarikan adat istiadat turun-temurun.
+    </p>
+
+    <i><h2>AGAMA DAN KEPERCAYAAN</h2></i>
+    <p>
+      Kepercayaan Sunda Wiwitan menjadi dasar kehidupan masyarakat Cireundeu, mengutamakan harmoni dengan alam, sopan santun, dan olah rasa. Mereka tidak mengenal konsep surga-neraka, tetapi memandang kehidupan sebagai proses berkelanjutan. Upacara adat seperti Tutup Taun, Syura’an, dan Mindah-Mindah Rasa menjadi bagian penting kehidupan spiritual. Makanan pokok mereka adalah rasi (beras singkong), yang hanya boleh disimpan oleh perempuan di tempat khusus bernama “goah”.
+    </p>
+
+    <i><h2>BAHASA</h2></i>
+    <p>
+      Bahasa Sunda digunakan dalam kehidupan sehari-hari, upacara adat, dan tulisan publik. Bahasa ini ditanamkan sejak kecil dan menjadi simbol identitas budaya. Masyarakat tetap terbuka kepada pendatang dengan berkomunikasi dalam bahasa Indonesia bila diperlukan.
+    </p>
+
+    <i><h2>SISTEM SOSIAL</h2></i>
+    <p>
+      Warga memiliki lembaga sosial seperti kelompok musik tradisional, karang taruna, Pokdarwis, dan UMKM. Ini berfungsi menjaga nilai budaya sekaligus meningkatkan kesejahteraan sosial dan ekonomi.
+    </p>
+
+    <i><h2>MATA PENCAHARIAN</h2></i>
+    <p>
+      Penduduk umumnya bekerja sebagai petani singkong. Ada juga yang berdagang atau bekerja di kota. Produk olahan singkong seperti keripik dan eggroll dijual di Toko Serba Singkong yang dikelola ibu-ibu.
+    </p>
+
+    <i><h2>KESENIAN</h2></i>
+    <p>
+      Kesenian seperti karinding, angklung buncis, dan gondang dimainkan dalam upacara adat. Anak-anak diajarkan menari jaipongan. Wayang dan seni lukis digunakan sebagai ekspresi spiritual dan kenangan sejarah.
+    </p>
+
+    <i><h2>TEKNOLOGI</h2></i>
+    <p>
+      Prinsip “mibapa ka jaman” mendorong masyarakat untuk menerima teknologi secara bijak. Mereka menggunakan alat modern seperti televisi dan ponsel, namun tetap memelihara cara hidup tradisional. Traktor pernah digunakan tapi kembali ke cara manual karena kondisi lahan.
+    </p>
+
+    <i><h2>SISTEM PENGETAHUAN</h2></i>
+    <p>
+      Pendidikan terdiri dari formal (TK, SD), informal (dari keluarga), dan nonformal (pelatihan seni dan budaya). Pengetahuan lokal seperti pengolahan rasi dilestarikan, dan mereka aktif dalam menjaga lingkungan dengan reboisasi.
+    </p>
+
+    <i><h2>CIRI KHAS</h2></i>
+    <p>
+      Makanan rasi menjadi identitas kampung sejak 1918. Produk singkong menjadi oleh-oleh khas. Ikat kepala pria adat melambangkan unsur alam dan nilai kehidupan.
+    </p>
+
+    <i><h2>ADAT ISTIADAT</h2></i>
+    <p>
+      Hukum adat dianggap sebagai hukum ilahi. Tradisi seperti melepas alas kaki di gunung, sistem weton untuk penamaan, dan pakaian adat dalam pernikahan menggambarkan nilai kesucian dan kedekatan dengan alam. Perceraian dan poligami dilarang, namun mereka terbuka pada pernikahan beda agama.
+    </p>
+
+    <i><h2>PANDANGAN/INTERPRETASI</h2></i>
+    <p>
+      Prinsip “Ngindung ka Waktu, Mibapa ka Jaman” mencerminkan keterbukaan terhadap zaman. Meskipun teknologi hadir, masyarakat tetap menanamkan nilai-nilai melalui contoh nyata dan membatasi penggunaan gadget pada anak-anak.
+    </p>
+  </main>
+
+  <div class="quote"> 
+      "Gambaran Hidup Itu Sama Seperti Kita Naik Gunung, Jangan Terlalu Bersemangat Dan Jangan Terlalu Nyaman Untuk Beristirahat, Krna Seusatu Yang Berlebihan Itu Gabaik."  
+      <br/><b>– Kang Tri</b>
+    </div>
+
+    <h2>Gambaran Kampung Adat Cireundeu</h2>
+    <ul style="font-size:120%;text-align:justify;color:#283618">
+      <li>
+        <a href="https://youtu.be/CGoPXb0KgcU?si=yHPzWh108t-r1MVi" target="_blank">
+          CIREUNDEU TRADITIONAL VILLAGE IN INDONESIA, BETWEEN TRADITION AND TECHNOLOGY
+        </a>
+
+ <h2>Komentar Anda</h2>
+    <form>
+      <label for="name">Nama:</label><br>
+      <input type="text" id="name" name="name" placeholder="Masukkan namamu" style="width: 100%; padding: 8px;"><br><br>
+
+      <label for="comment">Komentar:</label><br>
+      <textarea id="comment" name="comment" rows="5" placeholder="Tulis komentarmu di sini..." style="width: 100%; padding: 8px;"></textarea><br><br>
+
+      <button type="submit">Kirim</button>
+    </form>
+
+
+  <!-- MARQUEE -->
+  <marquee bgcolor="white" behavior="alternate" style="color:rgb(6, 0, 0);">
+    UJIAN AKHIR SEMESTER DATA RAYA DAN PEMROGRAMAN KELOMPOK 9
+  </marquee>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>
+      &copy;
+      <small>
+        Ihsan Fadhiilah_1405623070, Najwa Malika Putri_1401623042,
+        Davina Shafa Salsabila_1401623060, Zachtiar Selvaraja_1401623057
+      </small>
+    </p>
+  </footer>
+
+</body>
+</html>
